@@ -16,3 +16,4 @@ to run given program succesfully
 **step-3**
 * now you will see two javascript files `index.js` and `server.js`
 * run both javascript files in two different terminals by giving command `nodemon index.js` and `nodemon server.js`
+* then goto your default web browser and type `http://localhost:3000/`
