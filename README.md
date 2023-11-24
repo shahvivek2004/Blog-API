@@ -1,6 +1,6 @@
 # Blog-API
 
-After Downloading this repository you need to follow below steps
+After cloning/Downloading this repository you need to follow below steps
 to run given program succesfully
 
 **step-1**
